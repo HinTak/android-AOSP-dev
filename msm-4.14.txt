@@ -1,8 +1,5 @@
  (tag: LE.UM.2.4.1.c1-06900-qcs405.0, tag: LE.UM.2.4.1.c1-06700-qcs405.0) Tue Jun 4 13:24:11 2019 -0700 Tue Jun 4 13:24:11 2019 -0700
- (tag: LE.UM.2.4.1.c1-06900-qcs405.0, tag: LE.UM.2.4.1.c1-06700-qcs405.0) Tue Jun 4 13:24:11 2019 -0700 Tue Jun 4 13:24:11 2019 -0700
  (tag: LE.UM.2.4.1.c1-07900-qcs405.0, qualcomm-msm-4.14/msm-4.14.c3) Mon Jun 17 08:33:58 2019 -0700 Mon Jun 17 08:33:58 2019 -0700
- (tag: LE.UM.2.4.1.r1-09900-qcs405.0, tag: LE.UM.2.4.1.r1-09800-qcs405.0, tag: LE.UM.2.4.1.r1-09700-qcs405.0, qualcomm-msm-4.14/kernel.lnx.4.14.r9-rel) Wed Jun 12 11:20:53 2019 +0530 Wed Jun 12 11:44:32 2019 +0530
- (tag: LE.UM.2.4.1.r1-09900-qcs405.0, tag: LE.UM.2.4.1.r1-09800-qcs405.0, tag: LE.UM.2.4.1.r1-09700-qcs405.0, qualcomm-msm-4.14/kernel.lnx.4.14.r9-rel) Wed Jun 12 11:20:53 2019 +0530 Wed Jun 12 11:44:32 2019 +0530
  (tag: LE.UM.2.4.1.r1-09900-qcs405.0, tag: LE.UM.2.4.1.r1-09800-qcs405.0, tag: LE.UM.2.4.1.r1-09700-qcs405.0, qualcomm-msm-4.14/kernel.lnx.4.14.r9-rel) Wed Jun 12 11:20:53 2019 +0530 Wed Jun 12 11:44:32 2019 +0530
  (tag: LE.UM.3.3.1.c1-01400-qcs405.0) Thu Dec 12 02:37:18 2019 -0800 Thu Dec 12 02:37:18 2019 -0800
  (tag: LE.UM.3.3.1.c1-02100-qcs405.0) Fri Dec 20 21:23:39 2019 -0800 Fri Dec 20 21:23:38 2019 -0800
@@ -13,28 +10,18 @@
  (tag: LE.UM.3.3.1.c3-09600-qcs405.0, qualcomm-msm-4.14/iot-kernel.lnx.4.14.c1) Thu Feb 6 17:32:38 2020 -0800 Wed May 13 22:31:54 2020 -0700
  (tag: LE.UM.3.3.1.r1-00400-qcs405.0) Tue Jun 18 02:37:54 2019 -0700 Tue Jun 18 02:37:53 2019 -0700
  (tag: LE.UM.3.3.1.r1-01400-qcs405.0, tag: LE.UM.3.3.1.r1-01300-qcs405.0, tag: LE.UM.3.3.1.r1-01100-qcs405.0) Wed Jul 3 15:08:32 2019 +0530 Wed Jul 3 15:08:38 2019 +0530
- (tag: LE.UM.3.3.1.r1-01400-qcs405.0, tag: LE.UM.3.3.1.r1-01300-qcs405.0, tag: LE.UM.3.3.1.r1-01100-qcs405.0) Wed Jul 3 15:08:32 2019 +0530 Wed Jul 3 15:08:38 2019 +0530
- (tag: LE.UM.3.3.1.r1-01400-qcs405.0, tag: LE.UM.3.3.1.r1-01300-qcs405.0, tag: LE.UM.3.3.1.r1-01100-qcs405.0) Wed Jul 3 15:08:32 2019 +0530 Wed Jul 3 15:08:38 2019 +0530
  (tag: LE.UM.3.3.1.r1-02500-qcs405.0) Thu Mar 7 11:47:56 2019 +0530 Mon Jul 29 10:01:03 2019 -0700
  (tag: LE.UM.3.3.1.r1-02900-qcs405.0) Mon Jul 22 13:47:49 2019 +0530 Tue Jul 30 04:47:02 2019 -0700
  (tag: LE.UM.3.3.1.r1-04300-qcs405.0, tag: LE.UM.3.3.1.r1-03900-qcs405.0) Thu Sep 19 05:25:14 2019 -0700 Thu Sep 19 05:25:13 2019 -0700
- (tag: LE.UM.3.3.1.r1-04300-qcs405.0, tag: LE.UM.3.3.1.r1-03900-qcs405.0) Thu Sep 19 05:25:14 2019 -0700 Thu Sep 19 05:25:13 2019 -0700
- (tag: LE.UM.3.3.1.r1-04600-qcs405.0, tag: LE.UM.3.3.1.r1-04500-qcs405.0) Tue Oct 29 04:49:54 2019 -0700 Tue Oct 29 04:49:54 2019 -0700
  (tag: LE.UM.3.3.1.r1-04600-qcs405.0, tag: LE.UM.3.3.1.r1-04500-qcs405.0) Tue Oct 29 04:49:54 2019 -0700 Tue Oct 29 04:49:54 2019 -0700
  (tag: LE.UM.3.3.1.r1-05300-qcs405.0) Wed Nov 20 01:55:53 2019 -0800 Wed Nov 20 01:56:06 2019 -0800
  (tag: LE.UM.3.3.1.r1-06800-qcs405.0) Thu Nov 21 17:53:14 2019 +0800 Thu Nov 28 21:42:54 2019 -0800
  (tag: LE.UM.3.3.1.r1-07300-qcs405.0, qualcomm-msm-4.14/kernel.lnx.4.14.r12-rel) Tue Feb 4 11:59:53 2020 +0530 Mon Apr 13 00:19:56 2020 -0700
  (tag: LE.UM.4.1.2.r1-01300-qcs405.0, tag: LE.UM.4.1.2.r1-01000-qcs405.0) Wed Nov 13 11:07:00 2019 +0530 Tue Nov 19 09:08:18 2019 -0800
- (tag: LE.UM.4.1.2.r1-01300-qcs405.0, tag: LE.UM.4.1.2.r1-01000-qcs405.0) Wed Nov 13 11:07:00 2019 +0530 Tue Nov 19 09:08:18 2019 -0800
  (tag: LE.UM.4.1.2.r1-01400-qcs405.0) Sun Dec 8 21:25:38 2019 +0530 Wed Dec 11 04:40:38 2019 -0800
- (tag: LE.UM.4.1.2.r1-02800-qcs405.0, tag: LE.UM.4.1.2.r1-02400-qcs405.0) Fri Jan 24 16:54:23 2020 +0530 Fri Feb 7 01:18:59 2020 -0800
  (tag: LE.UM.4.1.2.r1-02800-qcs405.0, tag: LE.UM.4.1.2.r1-02400-qcs405.0) Fri Jan 24 16:54:23 2020 +0530 Fri Feb 7 01:18:59 2020 -0800
  (tag: LE.UM.4.1.2.r1-03500-qcs405.0) Thu Feb 6 17:03:45 2020 +0530 Fri Mar 27 03:33:35 2020 -0700
  (tag: LE.UM.4.1.2.r1-03700-qcs405.0) Thu Apr 2 08:59:49 2020 -0700 Thu Apr 2 08:59:54 2020 -0700
  (tag: LE.UM.4.1.2.r1-04600-qcs405.0, qualcomm-msm-4.14/kernel.lnx.4.14.r17-rel) Sun May 3 22:57:54 2020 -0700 Sun May 3 22:57:54 2020 -0700
  (tag: LE.UM.4.2.1.r1-00900-QCS404.0, tag: LE.UM.4.2.1.r1-00800-QCS404.0, tag: LE.UM.4.2.1.r1-00700-QCS404.0, qualcomm-msm-4.14/LE.UM.4.2.1.r1.1) Wed Jan 1 19:51:55 2020 -0800 Wed Jan 1 19:51:54 2020 -0800
- (tag: LE.UM.4.2.1.r1-00900-QCS404.0, tag: LE.UM.4.2.1.r1-00800-QCS404.0, tag: LE.UM.4.2.1.r1-00700-QCS404.0, qualcomm-msm-4.14/LE.UM.4.2.1.r1.1) Wed Jan 1 19:51:55 2020 -0800 Wed Jan 1 19:51:54 2020 -0800
- (tag: LE.UM.4.2.1.r1-00900-QCS404.0, tag: LE.UM.4.2.1.r1-00800-QCS404.0, tag: LE.UM.4.2.1.r1-00700-QCS404.0, qualcomm-msm-4.14/LE.UM.4.2.1.r1.1) Wed Jan 1 19:51:55 2020 -0800 Wed Jan 1 19:51:54 2020 -0800
- (tag: LE.UM.4.2.1.r1-02000-QCS404.0, tag: LE.UM.4.2.1.r1-01800-QCS404.0, tag: LE.UM.4.2.1.r1-01700-QCS404.0, qualcomm-msm-4.14/LE.UM.4.2.1.r1.2) Wed Mar 18 00:57:00 2020 -0700 Wed Mar 18 00:57:00 2020 -0700
- (tag: LE.UM.4.2.1.r1-02000-QCS404.0, tag: LE.UM.4.2.1.r1-01800-QCS404.0, tag: LE.UM.4.2.1.r1-01700-QCS404.0, qualcomm-msm-4.14/LE.UM.4.2.1.r1.2) Wed Mar 18 00:57:00 2020 -0700 Wed Mar 18 00:57:00 2020 -0700
  (tag: LE.UM.4.2.1.r1-02000-QCS404.0, tag: LE.UM.4.2.1.r1-01800-QCS404.0, tag: LE.UM.4.2.1.r1-01700-QCS404.0, qualcomm-msm-4.14/LE.UM.4.2.1.r1.2) Wed Mar 18 00:57:00 2020 -0700 Wed Mar 18 00:57:00 2020 -0700
