@@ -32,3 +32,4 @@
  (tag: LE.UM.4.2.1.r1-02500-QCS404.0) Fri May 8 23:56:26 2020 -0700 Fri May 8 23:56:26 2020 -0700
  (tag: LE.UM.4.2.1.r1-02600-QCS404.0) Tue May 19 20:18:13 2020 +0530 Wed May 20 20:31:48 2020 +0530
  (tag: LE.UM.4.2.1.r1-04000-QCS404.0, qualcomm-msm-4.14/LE.UM.4.2.1.r1.3) Sun Jun 14 07:49:08 2020 -0700 Sun Jun 14 07:49:08 2020 -0700
+ (tag: LE.UM.5.2.1.r1-00500-qcs405.0, qualcomm-msm-4.14/kernel.lnx.4.14.r36-rel) Sun Jul 26 22:50:36 2020 -0700 Sun Jul 26 22:50:36 2020 -0700
