@@ -33,4 +33,5 @@
  (tag: LE.UM.5.2.1.r1-01900-qcs405.0) Thu Oct 22 15:49:26 2020 +0530 Wed Nov 18 13:08:59 2020 +0530
  (tag: LE.UM.5.2.1.r1-03300-qcs405.0, tag: LE.UM.5.2.1.r1-03000-qcs405.0) Tue Dec 22 23:23:39 2020 -0800 Tue Dec 22 23:23:39 2020 -0800
  (tag: LE.UM.5.2.1.r1-04000-qcs405.0) Wed Feb 17 02:36:16 2021 -0800 Wed Feb 17 02:36:16 2021 -0800
- (tag: LE.UM.5.2.1.r1-05200-qcs405.0, audio-drivers.lnx.3.1.r17-rel) Sat Apr 17 06:18:16 2021 -0700 Sat Apr 17 06:18:16 2021 -0700
+ (tag: LE.UM.5.2.1.r1-05200-qcs405.0) Sat Apr 17 06:18:16 2021 -0700 Sat Apr 17 06:18:16 2021 -0700
+ (tag: LE.UM.5.2.1.r1-05800-qcs405.0, audio-drivers.lnx.3.1.r17-rel) Mon Jun 7 16:28:21 2021 +0800 Wed Jun 23 23:50:09 2021 -0700
