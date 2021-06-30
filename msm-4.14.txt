@@ -42,4 +42,5 @@
  (tag: LE.UM.5.2.1.r1-01900-qcs405.0) Mon Aug 10 16:10:50 2020 -0700 Tue Nov 17 22:30:11 2020 -0800
  (tag: LE.UM.5.2.1.r1-03000-qcs405.0) Mon Dec 21 21:12:03 2020 +0530 Wed Jan 13 05:46:16 2021 -0800
  (tag: LE.UM.5.2.1.r1-03300-qcs405.0) Sun Dec 6 20:41:59 2020 -0500 Thu Jan 28 03:51:55 2021 -0800
- (tag: LE.UM.5.2.1.r1-04000-qcs405.0, qualcomm-msm-4.14/kernel.lnx.4.14.r36-rel) Wed Feb 17 02:24:25 2021 -0800 Wed Feb 17 02:24:25 2021 -0800
+ (tag: LE.UM.5.2.1.r1-04000-qcs405.0) Wed Feb 17 02:24:25 2021 -0800 Wed Feb 17 02:24:25 2021 -0800
+ (tag: LE.UM.5.2.1.r1-05200-qcs405.0, qualcomm-msm-4.14/kernel.lnx.4.14.r36-rel) Sat Apr 17 06:06:06 2021 -0700 Sat Apr 17 06:06:06 2021 -0700
